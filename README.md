@@ -1,9 +1,9 @@
 # PythonLiveProject
 
-#introduction
+# introduction
 For this project, I created a Django App apart of many other apps in 1 place, that will allow the user to submit a vehicle into a database and view a list of the items or specific details if need be. All Created using Django and made from the ground up. 
 
-#CRUD Functionality
+# CRUD Functionality
 
 * Create
   First was creating a model for the information to be inputted. In this case, it was Vehicle Make, Model, Year, Cylinders and Horsepower.
